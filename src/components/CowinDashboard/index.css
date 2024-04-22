@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.bol {
+  height: 100vh;
+}
+.kol {
+  display: flex;
+  flex-direction: column;
+  background-color: #161625;
+}
